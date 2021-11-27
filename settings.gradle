@@ -1,0 +1,4 @@
+rootProject.name = "praktika5"
+include ':Accelerometer'
+include ':camera'
+include ':audiorecord'
